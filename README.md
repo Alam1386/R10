@@ -1,3 +1,5 @@
+<img src="r10.png" width=600 align="middle">
+
 # R10
 
 R10 is an IOS Mobile App developed using React Native. This App fetches the data from a public API and diplays in a beautifully designed pages in the App.
